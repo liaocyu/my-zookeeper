@@ -1,0 +1,10 @@
+
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¶ö›ñá1J$853cdd20-2515-45fc-ba06-e2a009cee2cf
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8çšñá1J$b966d6dd-906e-47c8-8d90-19425f575cf4
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.( ¹Úïùÿÿÿÿ8íšñá1J$bcc08d18-25fe-4435-9463-271714420cf4
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ı¯şëıÿÿÿÿ8¾ö›ñá1J$1af4f703-a28e-48f0-a6ec-671dc7415f2a
+¡
+java:S21428"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Ìö›ñá1J$9a8211dd-f8ad-4e4c-957a-e45096940870

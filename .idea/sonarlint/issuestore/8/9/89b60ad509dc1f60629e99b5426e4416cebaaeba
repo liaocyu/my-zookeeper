@@ -1,0 +1,20 @@
+
+	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ˆçúïá1J$a0f46d4d-84ce-4e0f-a2a5-5b393e8b486d
+	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰çúïá1J$8868c774-0c14-4b00-b0ca-b65e330d731a
+	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰çúïá1J$2db45711-c3c7-410c-a9d0-6383eb1eaf16
+…
+java:S1163Z"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8‹çúïá1J$24a5955f-b4b5-4a4d-bd15-9f3aee836ddb
+}
+java:S1143W"5Remove this return statement from this finally block.(À´’÷ùÿÿÿÿ8Œçúïá1J$86b86f46-51f8-4631-8d5e-4a29f79a0baa
+|
+java:S1143Z"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8Œçúïá1J$3659b8da-a4db-4123-8514-442e264e8d85
+d
+java:S1170"!Make this final field static too.(ºìØ8¾ÿïá1J$bd85e02f-f5e9-435e-a619-5866b8542ad8
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8º¥ıïá1J$13c84d9f-7c95-4cfc-bf5f-559552c44187
+„
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ºìØ8Ãÿïá1J$94d65bd8-b003-4dfb-9bca-ddd0cde54284
+‰
+java:S1075$"ARefactor your code to get this URI from a customizable parameter.(ı¯şëıÿÿÿÿ8–çúïá1J$bb50df5a-b8a4-49ce-adfd-569b20f762b8
+¡
+java:S2142:"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8 çúïá1J$ce53c8d3-8f62-4895-acd5-df1bac37a490

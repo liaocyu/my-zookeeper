@@ -1,0 +1,21 @@
+
+	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8–è×ğá1J$e999d4ee-1c30-41b7-9290-37a5a9ef0b12
+	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8—è×ğá1J$a681653f-97f9-4dfa-9959-e229498e52c7
+	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8—è×ğá1J$f0b37ee6-fc35-4c02-ac0c-57d2cf45b764
+	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8—è×ğá1J$70ec29ea-7b50-4dbc-968b-3cef2f96e40a
+…
+java:S1163A"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8™è×ğá1J$5683894f-e8dd-48e7-a85c-63e14a1e621e
+…
+java:S1163W"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8™è×ğá1J$5b8d8495-e998-4cb3-998d-fe67b1dd1c89
+|
+java:S1143A"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8šè×ğá1J$1ff7aba6-2860-4d42-9c17-f56224746e1f
+|
+java:S1143W"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8šè×ğá1J$3436d81e-6b2c-4352-ba5e-15961cfff963
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¦è×ğá1J$05ab14d1-3a7f-4c56-a014-082919434869
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.( ¹Úïùÿÿÿÿ8«è×ğá1J$5374c63e-d3fb-4eb4-806a-a309958517ca
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¾·µ·üÿÿÿÿ8®è×ğá1J$f17370de-76c1-44d6-a5d0-8c63330a263e
+‰
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(ı¯şëıÿÿÿÿ8¯è×ğá1J$d7b275dc-671d-4f73-b9a7-2d599131d518

@@ -1,0 +1,15 @@
+
+	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ν†³πα1J$2546eda4-99cf-4c5e-a42a-97e2ca997dc6
+	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ν†³πα1J$78c2e71b-6667-45b5-8c3f-3f4a6bf2f4fa
+…
+java:S1163E"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òιόÿÿÿÿ8Ξ†³πα1J$f19b7bc3-70ec-46f1-9e93-35b6466d19bf
+|
+java:S1143E"4Remove this throw statement from this finally block.(Ò‚Òιόÿÿÿÿ8Ο†³πα1J$c9cf08a5-6050-4337-9661-0cb182e012f5
+d
+java:S1170"!Make this final field static too.(ΊμΨ8Ò†³πα1J$5117beb9-9243-4449-84d2-d363a4f523b6
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(κζΔή8Σ†³πα1J$143fba5a-50fe-401d-942d-b86c45df2738
+„
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ΊμΨ8Χ†³πα1J$28cb2810-5432-4ff5-921f-d9597ea9ac9d
+‰
+java:S1075$"ARefactor your code to get this URI from a customizable parameter.(ύ―ώλύÿÿÿÿ8Ψ†³πα1J$84994e41-1bdb-41cd-ba55-cbcdd77c6a03

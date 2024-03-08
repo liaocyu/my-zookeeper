@@ -1,0 +1,68 @@
+
+‰	java:S107%"BConstructor has 11 parameters, which is greater than 7 authorized.(Ξ†“Χÿÿÿÿÿ8ύσάπα1J$3de62793-7159-4f4c-b9ba-135a5e89ad7b
+p
+java:S3010*"(Remove this assignment of "curatorDemo".(σ¬ηψÿÿÿÿ8τάπα1J$889bf1f9-e009-413c-8f79-ec0379f8b95e
+m
+java:S3010+"%Remove this assignment of "addZNode".(τ―¬ϊÿÿÿÿ8τάπα1J$53988bf0-fc5c-424d-911c-f236913091e0
+g
+java:S3010,"%Remove this assignment of "delZNode".(΄‘{8τάπα1J$e3d43e75-f175-4350-8638-c091880bc1b2
+t
+java:S3010-",Remove this assignment of "operaAsyncZNode".(Ή‹Ύαωÿÿÿÿ8τάπα1J$ec98e5cb-bdec-4336-9f07-1ad2b4433303
+h
+java:S3010."%Remove this assignment of "putZNode".(φΘή8τάπα1J$2e825a14-b85e-4417-9f97-e807d5af7f0d
+v
+java:S3010/"4Remove this assignment of "notReentrantAcquireLock".(―Οέi8τάπα1J$08000303-1df6-40c5-b34c-76e5d05b5269
+t
+java:S30100"1Remove this assignment of "reentrantAcquireLock".(θρΈη8τάπα1J$75791a30-ec58-401f-964e-e7ce26274af7
+u
+java:S30101"2Remove this assignment of "reentrantAcquireLock2".(ΊΐΩΗ8τάπα1J$ef00749f-a802-4d78-bb5b-c88494c3fd8e
+{
+java:S30102"3Remove this assignment of "reentrantReadWriteLock".(›ί®—ώÿÿÿÿ8τάπα1J$9082e798-a137-4a18-a693-f18f11edc84c
+o
+java:S30103",Remove this assignment of "semaphoreV2Lock".(¨αΆΆ8φδ΅ρα1J$57573df7-6f50-4d30-a703-aa89cc1a2852
+G
+java:S30104"*Remove this assignment of "mutiShareLock".(Δίω8©·±ρα1
+}
+java:S2209*"5Change this instance-reference to a static reference.(σ¬ηψÿÿÿÿ8‚τάπα1J$8a638896-be18-4032-a250-cf7bb3d61f58
+}
+java:S2209+"5Change this instance-reference to a static reference.(τ―¬ϊÿÿÿÿ8‚τάπα1J$8d6a4ae1-9f25-4d51-bf20-b5aba64c82b4
+w
+java:S2209,"5Change this instance-reference to a static reference.(΄‘{8‚τάπα1J$99f1c881-a7a7-4262-b7b9-5b244e429c29
+}
+java:S2209-"5Change this instance-reference to a static reference.(Ή‹Ύαωÿÿÿÿ8‚τάπα1J$b4cbd3b6-cfce-440e-a161-e8de848dd596
+x
+java:S2209."5Change this instance-reference to a static reference.(φΘή8ƒτάπα1J$b6ad4175-38de-449a-aaed-40a6055acb25
+w
+java:S2209/"5Change this instance-reference to a static reference.(―Οέi8ƒτάπα1J$208fc751-8a5e-4702-a155-06dd9397a18c
+x
+java:S22090"5Change this instance-reference to a static reference.(θρΈη8ƒτάπα1J$78741713-fd29-4229-b43f-3356ca2a023c
+x
+java:S22091"5Change this instance-reference to a static reference.(ΊΐΩΗ8ƒτάπα1J$74745cc7-c3b9-4423-bcf8-59dace5f3628
+}
+java:S22092"5Change this instance-reference to a static reference.(›ί®—ώÿÿÿÿ8ƒτάπα1J$3c366d4b-e542-453f-ae4d-d4e033c49aea
+x
+java:S22093"5Change this instance-reference to a static reference.(¨αΆΆ8ψδ΅ρα1J$bc6247fb-9c71-4e91-95dc-30a0b36f4c60
+R
+java:S22094"5Change this instance-reference to a static reference.(Δίω8¬·±ρα1
+΄
+java:S11306"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΩΨ¤ήύÿÿÿÿ8„τάπα1J$c78cb068-73ea-498c-ad47-741c1873e522
+w
+java:S1068"/Remove this unused "curatorDemo" private field.(ª‰ΝΦÿÿÿÿÿ8†τάπα1J$c6c41a01-78c7-4489-8cb4-ee8c1db0e1b2
+o
+java:S1068",Remove this unused "addZNode" private field.(°Ζκ‹8‡τάπα1J$02244398-e7c6-4755-b2f0-1ed27ed30495
+t
+java:S1068",Remove this unused "delZNode" private field.(ΛΔ£ϋÿÿÿÿ8‡τάπα1J$399dd64d-a865-4ddf-9ffc-a078e0a8a1b0
+v
+java:S1068"3Remove this unused "operaAsyncZNode" private field.(ΛΪ³μ8‡τάπα1J$3878a635-5230-49ef-88e5-b1df46fe97be
+}
+java:S1068";Remove this unused "notReentrantAcquireLock" private field.(©Λθ8‡τάπα1J$08d4f63b-4542-43c1-9afe-b4f38e553889
+t
+java:S1068",Remove this unused "putZNode" private field.(°ώ«θώÿÿÿÿ8‡τάπα1J$cc5105c9-4972-44c9-be6e-853e9034ca9f
+€
+java:S1068"8Remove this unused "reentrantAcquireLock" private field.(Α¶Ήÿÿÿÿÿ8‡τάπα1J$9e359d45-876b-4044-9e99-1529c59f3cf2
+
+java:S1068"9Remove this unused "reentrantAcquireLock2" private field.(Λ«―¤ϋÿÿÿÿ8¬έπα1J$c9db7d67-2ec0-4510-b6a7-ffdff417c231
+‚
+java:S1068 ":Remove this unused "reentrantReadWriteLock" private field.(ς„ς°ώÿÿÿÿ8ώϊ΅ρα1J$5990744e-021c-4fe9-b1b1-9698950ab7e7
+v
+java:S1068!"3Remove this unused "semaphoreV2Lock" private field.(ώιΨ8ρΜ°ρα1J$b210a08e-0cf3-44ac-ab29-200ba5a42193
